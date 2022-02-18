@@ -1,0 +1,52 @@
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');  */
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #181818;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 1.5em;   
+}
+
+.content    {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5em;
+}
+
+.logo {
+    text-align: center;
+    font-size: 3em;
+}
+
+.logo span {
+    color: #b70e21
+}
+
+.contac-wrapper {
+    box-shadow: 0 0 20px 0 rgba(255, 255, 255, .3);
+}
+
+.contac-wrapper > * {
+    padding: 1em;
+}
+
+.contact-form {
+    background: #414040;
+}
+
+.contact-form form {
+    margin: 0;
+    padding: 1em;
+}
+
+
+
+.contact-info {
+    background: #000000;
+}
