@@ -1,3 +1,3 @@
 # Simple HTML Contact Form
 
-![](docs/contact-form.png)
+![](docs/HOTEL.jpeg)
